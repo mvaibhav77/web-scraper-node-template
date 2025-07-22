@@ -1,0 +1,24 @@
+{
+  "name": "web-scraper-node-template",
+  "version": "1.0.0",
+  "description": "A Node.js template for web scraping with Puppeteer. Includes utilities and examples to get started quickly.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "example:books": "node examples/books-scraper/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "web-scraping",
+    "puppeteer",
+    "nodejs",
+    "template",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.14.0"
+  }
+}
