@@ -16,7 +16,7 @@
     "template",
     "scraper"
   ],
-  "author": "",
+  "author": "Vaibhav Shukla",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^24.14.0"
